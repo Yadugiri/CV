@@ -1,0 +1,35 @@
+/********************** Tag selectors*****************/
+  body{
+    background-color: #edcfa9;
+    }
+
+  hr{
+       border-style: none;
+       border-top-style: dotted;
+       border-color:  #e89f71;
+       border-width: 5px;
+       width: 20%;
+    }
+
+  h1{
+    color: #d57149;
+  }
+
+  h2,h3{
+    color: #aa4a30;
+  }
+/*
+  img {
+    background-color: blue;
+  }
+
+/********************** class electors*****************/
+
+.pic{
+  background-color: red;
+}
+
+
+
+
+    </style>
